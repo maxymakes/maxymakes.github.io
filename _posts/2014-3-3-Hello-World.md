@@ -1,10 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title: Hi there! I'm so happy you're here! I hope you enjoy my collections.
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I'm Max. I live in Singapore and I love anything to do with creating things.
+- Digital Art - My current interest is with [Adobe Fresco](https://apps.apple.com/us/app/adobe-fresco-painting-studio/id1458660369) on iPad
+- [Lego](https://www.lego.com/en-sg) - I mean, of course Lego!
+- Sculpture - Air dry clay, pottery, 3D pens - I love all of them
+- Photography - One day I will get my own phone :(
+- Stop motion video - This one takes a lot of time!
+- Minecraft, Roblox, FNF, Poppy Playtime, Bendy and the Ink Machine ... the list is endless.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+This site is new, but I will be adding stuff all the time, so check back regularly!
